@@ -1,1 +1,1 @@
-<img src="https://tenor.com/pt-BR/view/lucky-star-thumbs-up-cute-wink-anime-gif-17593886" width="450"/>
+<img src="https://media1.tenor.com/m/yFDrE0-KetUAAAAC/lucky-star-thumbs-up.gif" width="450"/>
