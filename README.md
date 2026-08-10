@@ -29,9 +29,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dev-real.gif" width="450"/>
-</div>
+<!-- GIFS_AQUI -->
 
 <br>
 
