@@ -1,5 +1,1 @@
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/musica2-1/musica2-1/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
